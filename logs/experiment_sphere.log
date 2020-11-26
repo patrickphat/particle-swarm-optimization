@@ -1,0 +1,423 @@
+[Experiment] CFGs: {'pop_size': 2048, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 81169.0994, 'n_evals': 413798, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 14286.5413, 'n_evals': 413798, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 10695.3714, 'n_evals': 413798, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 31277.8315, 'n_evals': 413798, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 5171.0436, 'n_evals': 413798, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 15863.3183, 'n_evals': 413798, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 80191.0087, 'n_evals': 413798, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 266.9864, 'n_evals': 413798, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 249706.5683, 'n_evals': 413798, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 92117.0651, 'n_evals': 413798, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 2048, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.9783, 'n_evals': 413798, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 9.6552, 'n_evals': 413798, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8315, 'n_evals': 413798, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 11.6161, 'n_evals': 413798, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 1.4738, 'n_evals': 413798, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 10.6424, 'n_evals': 413798, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 21.9073, 'n_evals': 413798, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 2.6998, 'n_evals': 413798, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 4.9901, 'n_evals': 413798, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 1.5258, 'n_evals': 413798, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 2048, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 1.3664, 'n_evals': 413798, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.1871, 'n_evals': 413798, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 23.8697, 'n_evals': 413798, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 3.2407, 'n_evals': 413798, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 33.0423, 'n_evals': 413798, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 8.9404, 'n_evals': 413798, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 5.8096, 'n_evals': 413798, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 36.449, 'n_evals': 413798, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 11.2711, 'n_evals': 413798, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 3.3428, 'n_evals': 413798, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 2048, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 3271594.7694, 'n_evals': 413798, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 839102.1281, 'n_evals': 413798, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 4761918.261, 'n_evals': 413798, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 20747.3389, 'n_evals': 413798, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 180695.5574, 'n_evals': 413798, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 370901.2368, 'n_evals': 413798, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 48967.7644, 'n_evals': 413798, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 6408091.1367, 'n_evals': 413798, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 634684.8441, 'n_evals': 413798, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 6375115.0506, 'n_evals': 413798, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 2048, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 492.5642, 'n_evals': 413798, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 196.0053, 'n_evals': 413798, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 734.2922, 'n_evals': 413798, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 476.5668, 'n_evals': 413798, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 141.6324, 'n_evals': 413798, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 246.4183, 'n_evals': 413798, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 228.4348, 'n_evals': 413798, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 314.5351, 'n_evals': 413798, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 2048, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 4.7532, 'n_evals': 413798, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 14.0805, 'n_evals': 413798, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 37.7947, 'n_evals': 413798, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 4.2666, 'n_evals': 413798, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 40.0285, 'n_evals': 413798, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 71.7173, 'n_evals': 413798, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 22.5131, 'n_evals': 413798, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 8.5031, 'n_evals': 413798, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 2.5702, 'n_evals': 413798, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 3.0032, 'n_evals': 413798, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 2048, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 1.3664, 'n_evals': 413798, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.1871, 'n_evals': 413798, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 23.8697, 'n_evals': 413798, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 3.2407, 'n_evals': 413798, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 33.0423, 'n_evals': 413798, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 8.9404, 'n_evals': 413798, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 5.8096, 'n_evals': 413798, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 36.449, 'n_evals': 413798, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 11.2711, 'n_evals': 413798, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 3.3428, 'n_evals': 413798, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 2048, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 1.3664, 'n_evals': 413798, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.1871, 'n_evals': 413798, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 23.8697, 'n_evals': 413798, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 3.2407, 'n_evals': 413798, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 33.0423, 'n_evals': 413798, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 8.9404, 'n_evals': 413798, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 5.8096, 'n_evals': 413798, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 36.449, 'n_evals': 413798, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 11.2711, 'n_evals': 413798, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 3.3428, 'n_evals': 413798, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 20, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 10210.1208, 'n_evals': 4142, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 632.447, 'n_evals': 4142, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 91542.7039, 'n_evals': 4142, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 1448.1195, 'n_evals': 4142, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 2866.6172, 'n_evals': 4142, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 7882.8457, 'n_evals': 4142, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 13530.3602, 'n_evals': 4142, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 36779.5293, 'n_evals': 4142, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 113021.9264, 'n_evals': 4142, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 1094.6398, 'n_evals': 4142, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 10000000.0, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 1000000.0, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 100000.0, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 8000, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 3.0093, 'n_evals': 1616102, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.9087, 'n_evals': 1616102, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 1.607, 'n_evals': 1616102, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 4.4827, 'n_evals': 1616102, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 10.9765, 'n_evals': 1616102, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 2.8668, 'n_evals': 1616102, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.8657, 'n_evals': 1616102, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 8000, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 1616102, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0002, 'n_evals': 1616102, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0002, 'n_evals': 1616102, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0001, 'n_evals': 1616102, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0001, 'n_evals': 1616102, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0001, 'n_evals': 1616102, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0001, 'n_evals': 1616102, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0003, 'n_evals': 1616102, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.0001, 'n_evals': 1616102, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.0002, 'n_evals': 1616102, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 8000, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 40.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 40.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 40.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 40.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 40.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 40.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 40.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 40.0, 'n_evals': 1616102, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 8000, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 1, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 40.0013, 'n_evals': 48004, 'n_gens': 1}
+Run #02: {'cognitive_loss_min': 40.0013, 'n_evals': 48004, 'n_gens': 1}
+Run #03: {'cognitive_loss_min': 40.0022, 'n_evals': 48004, 'n_gens': 1}
+Run #04: {'cognitive_loss_min': 40.0077, 'n_evals': 48004, 'n_gens': 1}
+Run #05: {'cognitive_loss_min': 40.0012, 'n_evals': 48004, 'n_gens': 1}
+Run #06: {'cognitive_loss_min': 40.0005, 'n_evals': 48004, 'n_gens': 1}
+Run #07: {'cognitive_loss_min': 40.0017, 'n_evals': 48004, 'n_gens': 1}
+Run #08: {'cognitive_loss_min': 40.0004, 'n_evals': 48004, 'n_gens': 1}
+Run #09: {'cognitive_loss_min': 40.004, 'n_evals': 48004, 'n_gens': 1}
+Run #10: {'cognitive_loss_min': 40.0011, 'n_evals': 48004, 'n_gens': 1}
+[Experiment] CFGs: {'pop_size': 8000, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 1, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0633, 'n_evals': 48004, 'n_gens': 1}
+Run #02: {'cognitive_loss_min': 0.064, 'n_evals': 48004, 'n_gens': 1}
+Run #03: {'cognitive_loss_min': 0.1118, 'n_evals': 48004, 'n_gens': 1}
+Run #04: {'cognitive_loss_min': 0.3869, 'n_evals': 48004, 'n_gens': 1}
+Run #05: {'cognitive_loss_min': 0.0597, 'n_evals': 48004, 'n_gens': 1}
+Run #06: {'cognitive_loss_min': 0.0196, 'n_evals': 48004, 'n_gens': 1}
+Run #07: {'cognitive_loss_min': 0.0857, 'n_evals': 48004, 'n_gens': 1}
+Run #08: {'cognitive_loss_min': 0.0183, 'n_evals': 48004, 'n_gens': 1}
+Run #09: {'cognitive_loss_min': 0.2018, 'n_evals': 48004, 'n_gens': 1}
+Run #10: {'cognitive_loss_min': 0.0524, 'n_evals': 48004, 'n_gens': 1}
+[Experiment] CFGs: {'pop_size': 8000, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.0, 'n_evals': 1616102, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0009, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0003, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0009, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0002, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0005, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0004, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0005, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0018, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.0007, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.0004, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 15.2228, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 83.981, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 9.9167, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 37.0072, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 3.2202, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 156.0314, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 11.4142, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 132.5846, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 56.2991, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 21.3867, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'star', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'star', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'star', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'star', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'star', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.3684, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 1.0258, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.5738, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0321, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0106, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0207, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0092, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0346, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.8175, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.024, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'star', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.3684, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 1.0258, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.5738, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0321, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0106, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0207, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0092, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0346, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.8175, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.024, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.8343, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0012, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0167, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0098, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.2417, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0257, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.3232, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.4117, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0028, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0279, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 15.2228, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 83.981, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 9.9167, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 37.0072, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 3.2202, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0003, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0009, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0002, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0005, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0004, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0005, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0018, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0003, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0009, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0002, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0005, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0004, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0005, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0018, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.0007, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.0004, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0003, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0009, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0002, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0005, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0004, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0005, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0018, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.0007, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.0004, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0003, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0009, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0002, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0009, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #10: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0001, 'n_evals': 161702, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 800, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 10, 'log_path': 'logs/experiment_sphere.log'}
+Run #01: {'cognitive_loss_min': 0.0559, 'n_evals': 161702, 'n_gens': 50}
+Run #02: {'cognitive_loss_min': 0.0061, 'n_evals': 161702, 'n_gens': 50}
+Run #03: {'cognitive_loss_min': 0.0285, 'n_evals': 161702, 'n_gens': 50}
+Run #04: {'cognitive_loss_min': 0.0476, 'n_evals': 161702, 'n_gens': 50}
+Run #05: {'cognitive_loss_min': 0.0704, 'n_evals': 161702, 'n_gens': 50}
+Run #06: {'cognitive_loss_min': 0.0337, 'n_evals': 161702, 'n_gens': 50}
+Run #07: {'cognitive_loss_min': 0.0135, 'n_evals': 161702, 'n_gens': 50}
+Run #08: {'cognitive_loss_min': 0.003, 'n_evals': 161702, 'n_gens': 50}
+Run #09: {'cognitive_loss_min': 0.0076, 'n_evals': 161702, 'n_gens': 50}

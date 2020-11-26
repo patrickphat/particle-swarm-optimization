@@ -6,7 +6,6 @@ from abc import abstractmethod
 
 EXTREME = 10e3
 
-
 class BaseProblem:
     @abstractmethod
     def __init__(self):
@@ -34,7 +33,7 @@ class Rastrigin(BaseProblem):
     def evaluate(self, x):
         A = 10
         n = x.shape[1]
-        the_sum = np.sum(x ** 2 - A * np.cos(np.pi), axis=1, keepdims=True)
+        the_sum = np.sum(x ** 2 - A * np.cos(np.pi*x), axis=1, keepdims=True)
         result = A * n + the_sum
         return result
 
