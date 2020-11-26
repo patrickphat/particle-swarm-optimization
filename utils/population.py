@@ -1,6 +1,7 @@
 import numpy as np
 
-def initialize_population(pop_size, problem_size, low, high):
+
+def initialize_population(pop_size, n_dims, low, high):
     """Initialize population as an numpy array
 
     Args:
@@ -13,5 +14,5 @@ def initialize_population(pop_size, problem_size, low, high):
         np.array: An array of sized (pop_size, problem_size)
     """
 
-    population = np.random.uniform(low = low, high = high, size = (pop_size, problem_size))
+    population = np.random.uniform(low=low, high=high, size=(pop_size, n_dims))
     return population
