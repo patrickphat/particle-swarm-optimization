@@ -57,7 +57,7 @@ class ParticleSwarmOptimization:
         self.current_social = self.update_social()
 
         # Inertia weight
-        self.w = 0.7
+        self.w = 0.3
 
         # Acceleration constant c
         self.c = 1.49618
@@ -95,9 +95,11 @@ class ParticleSwarmOptimization:
 
         current_losses = self.evaluate(self.pop_mat)
         cognitive_losses = self.evaluate(self.current_cognitives)
+        dist_to_opt = self.problem.distance_to_optimal(self.pop_mat)
 
         result_dict = {
-            "cognitive_loss_min": rnd(np.min(cognitive_losses)),
+            "cognitive_loss_best": rnd(np.min(cognitive_losses)),
+            "distance_to_opt_best": rnd(np.min(dist_to_opt)),
             "n_evals": rnd(self.n_evals), 
             "n_gens": rnd(self.n_gens)
             }
@@ -134,8 +136,8 @@ class ParticleSwarmOptimization:
         fig,ax=plt.subplots(1,1)
         cp = ax.contourf(X, Y, Z)
         fig.colorbar(cp) # Add a colorbar to a plot
-        ax.set_title('Filled Contours Plot')
-        ax.scatter(self.pop_mat[:,0],self.pop_mat[:,1], color = "white", s=1)
+        ax.set_title(f'Visualization gen {self.n_gens}')
+        ax.scatter(self.pop_mat[:,0],self.pop_mat[:,1], color = "white", s=4)
         ax.set(xlim=(self.low, self.high), ylim=(self.low, self.high))
 
 
@@ -145,7 +147,7 @@ class ParticleSwarmOptimization:
         img = np.array(Image.open(temp_img_path))
         return img
 
-    def run(self, print_log_every:int=None, max_n_gens:int = 50, max_n_evals:int = 10e6, export_gif=True):
+    def run(self, print_log_every:int=None, max_n_gens:int = 50, max_n_evals:int = 10e6, export_gif:str=None):
         if export_gif:
             viz_images = []
 
@@ -163,7 +165,7 @@ class ParticleSwarmOptimization:
                     logger.info(f"::[GEN {self.n_gens}] {result_dict}]")
         
         if export_gif:
-            io.mimsave('surface1.gif', viz_images, duration = 0.5)
+            io.mimsave(export_gif, viz_images, duration = 0.5)
 
         return result_dict
 

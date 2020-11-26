@@ -36,6 +36,10 @@ class Rastrigin(BaseProblem):
         the_sum = np.sum(x ** 2 - A * np.cos(np.pi*x), axis=1, keepdims=True)
         result = A * n + the_sum
         return result
+    
+    def distance_to_optimal(self, x):
+        # Optimal = 0,0,..,0
+        return np.sum(np.abs(x), axis=1, keepdims=True)
 
 
 class Sphere(BaseProblem):
@@ -45,6 +49,10 @@ class Sphere(BaseProblem):
     def evaluate(self, x):
         result = np.sum(x ** 2, axis=1, keepdims=True)
         return result
+    
+    def distance_to_optimal(self, x):
+        # Optimal = 0,0,..,0
+        return np.sum(np.abs(x), axis=1, keepdims=True)
 
 
 class Ackley(BaseProblem):
@@ -59,6 +67,10 @@ class Ackley(BaseProblem):
         third_term = np.exp(1) + 20
         result = first_term + second_term + third_term
         return result
+    
+    def distance_to_optimal(self, x):
+        # Optimal = 0,0,..,0
+        return np.sum(np.abs(x), axis=1, keepdims=True)
 
 
 class Rosenbrock(BaseProblem):
@@ -71,4 +83,8 @@ class Rosenbrock(BaseProblem):
         full_term = 100 * (cascaded_term - (root_term) ** 2) ** 2 + (1 - root_term) ** 2
         result = np.sum(full_term, axis=1, keepdims=True)
         return result
+    
+    def distance_to_optimal(self, x):
+        # Optimal = 1,1,..,1
+        return np.sum(np.abs(x-1), axis=1, keepdims=True)
 

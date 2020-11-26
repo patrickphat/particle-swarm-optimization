@@ -1,0 +1,24 @@
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'ring', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+Run #01: {'cognitive_loss_best': 0.054, 'distance_to_opt_best': 0.1014, 'n_evals': 6566, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+Run #01: {'cognitive_loss_best': 0.0011, 'distance_to_opt_best': 0.0332, 'n_evals': 6566, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'ring', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+Run #01: {'cognitive_loss_best': 0.328, 'distance_to_opt_best': 4.0657, 'n_evals': 6566, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+Run #01: {'cognitive_loss_best': 0.023, 'distance_to_opt_best': 0.8331, 'n_evals': 6566, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'ring', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+Run #01: {'cognitive_loss_best': 1390.0794, 'distance_to_opt_best': 71.4098, 'n_evals': 6566, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+Run #01: {'cognitive_loss_best': 25639.8178, 'distance_to_opt_best': 62.4728, 'n_evals': 6566, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'ring', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+Run #01: {'cognitive_loss_best': 0.0005, 'distance_to_opt_best': 0.0003, 'n_evals': 6566, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+Run #01: {'cognitive_loss_best': 0.0013, 'distance_to_opt_best': 0.0029, 'n_evals': 6566, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}
+[Experiment] CFGs: {'pop_size': 32, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': None, 'topology': 'star', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_2_var.log'}

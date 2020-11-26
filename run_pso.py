@@ -5,14 +5,15 @@ import numpy as np
 import logging
 
 CFGs = {
-    "pop_size": 800,
+    "pop_size": 32,
     "n_dims": 2,
-    "problem": "rastrigin",
+    "problem": "ackley",
     "max_n_gens": 50,
-    "max_n_evals": 10e6,
-    "topology": "ring",
-    "n_experiments": 10,
-    "log_path": "logs/experiment_sphere.log",
+    "max_n_evals": None,
+    "topology": "star",
+    "n_experiments": 1,
+    "export_gif": None,
+    "log_path": "logs/experiment_2_var.log",
 }
 
 BASE_RANDOM_SEED = 17520880
@@ -45,7 +46,8 @@ if __name__ == "__main__":
             )
         result_dict = PSO.run(
             max_n_gens=CFGs["max_n_gens"],
-            max_n_evals=CFGs["max_n_evals"]
+            max_n_evals=CFGs["max_n_evals"],
+            export_gif=CFGs["export_gif"]
             )
 
         with open(CFGs["log_path"], "a") as fp:

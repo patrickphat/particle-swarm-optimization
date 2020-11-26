@@ -1,0 +1,21 @@
+[Experiment] CFGs: {'pop_size': 200, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 1, 'export_gif': None, 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.0095, 'n_evals': 40502, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 200, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 1, 'export_gif': 'rastrigin.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.0095, 'n_evals': 40502, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 1, 'export_gif': 'rastrigin.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.0, 'n_evals': 206950, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': '', 'n_experiments': 1, 'export_gif': 'rastrigin_ring.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 1, 'export_gif': 'rastrigin_ring.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.0, 'n_evals': 206950, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'star', 'n_experiments': 1, 'export_gif': 'rastrigin_star.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 206950, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'star', 'n_experiments': 1, 'export_gif': 'rastrigin_star.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.0001, 'n_evals': 206950, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'rastrigin', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 1, 'export_gif': 'rastrigin_ring.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.0, 'n_evals': 206950, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'sphere', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 1, 'export_gif': 'sphere_ring.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.126, 'n_evals': 206950, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'rosenbrock', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 1, 'export_gif': 'rosenbrock_ring.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 48.238, 'n_evals': 206950, 'n_gens': 50}
+[Experiment] CFGs: {'pop_size': 1024, 'n_dims': 2, 'problem': 'ackley', 'max_n_gens': 50, 'max_n_evals': 10000000.0, 'topology': 'ring', 'n_experiments': 1, 'export_gif': 'ackley_ring.gif', 'log_path': 'logs/experiment_rastrigin.log'}
+Run #01: {'cognitive_loss_min': 0.0003, 'n_evals': 206950, 'n_gens': 50}
